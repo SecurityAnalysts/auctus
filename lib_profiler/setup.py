@@ -12,7 +12,7 @@ req = [
     'pandas',
     'prometheus_client',
     'python-dateutil',
-    'scikit-learn>=0.22,<0.24',
+    'scikit-learn>=1.5.1,<1.6',
     'regex',
     'requests',
     'datamart-geo>=0.2.3,<0.4',
